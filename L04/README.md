@@ -1,0 +1,1 @@
+This was about nested loops and how to print different types of patterns.
