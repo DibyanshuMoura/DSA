@@ -1,0 +1,1 @@
+This was mainly a theoritical session about Binary Number system and has two codes about conversion from binary to decimal and vice-versa.
