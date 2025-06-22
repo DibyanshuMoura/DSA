@@ -1,0 +1,1 @@
+This was a lecture about Bitwise operator, modifiers and the first HomeWork question was tough, I had to look it up to understand the logic behind it.
