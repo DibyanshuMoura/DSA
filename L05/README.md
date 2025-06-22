@@ -1,0 +1,1 @@
+This was about functions and what they so and how they work.
