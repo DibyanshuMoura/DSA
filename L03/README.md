@@ -1,0 +1,1 @@
+This was the lecture about the conditionals and loops.
