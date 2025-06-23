@@ -1,0 +1,1 @@
+This was a lecture about Vectors and some of its functions and that leetcode question I knew about that so it was easy.

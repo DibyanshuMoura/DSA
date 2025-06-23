@@ -1,0 +1,1 @@
+This was a lecture about arrays and how to find max, min and reverse the array. The last two home work questions were hard and I had to look up for the logic behind it.
