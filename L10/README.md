@@ -1,0 +1,1 @@
+This lecture was a bit complicated, the understanding of the 3 nested loops and how they work and how to optimise the Bruteforce approach from O(n^3) to O(n^2) to finally O(n) using Kadan's Algorithm.
