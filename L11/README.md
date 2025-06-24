@@ -1,0 +1,1 @@
+This lecture was a bit tough for me about the majority element as everytime my take on the problem was wrong. I've done the code but I'll have rewatch and learn again properly.
