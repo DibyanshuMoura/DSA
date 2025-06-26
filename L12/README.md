@@ -1,0 +1,1 @@
+This was a theoritical lecture about the Time and space complexity. I wasn't able to complete the lecture as I didn't have that concept's knowledge. I'll watch it again after I learn the concept.
