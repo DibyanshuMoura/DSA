@@ -1,0 +1,1 @@
+This lecture was a bit tough as I was really struggling at the Power question, I understood it for now and I'll of course come back at it later and about the stock one its easy if you analyse the problem clearly, I made a more complex and wrong approach and it was wrong, I'll have to work on it.  
