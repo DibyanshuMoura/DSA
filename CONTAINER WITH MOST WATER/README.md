@@ -1,0 +1,1 @@
+This lecture was easy but my approach on the bruteforce method was wrong , however my tow pointer approach was correct.
