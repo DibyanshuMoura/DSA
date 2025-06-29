@@ -1,0 +1,1 @@
+This lecture was tricky one as the I never thought that binary search can be used in such a manner, even thought I coudn't do it myself I understood it pretty well.
