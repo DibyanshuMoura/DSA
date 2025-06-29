@@ -1,0 +1,1 @@
+This lecture was easy and I got to learn the recursive approach of the Binary Search.
