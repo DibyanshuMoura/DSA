@@ -1,0 +1,1 @@
+This lecture was easy as I was quite familiar with pointers and pointer arithmetic.
