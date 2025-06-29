@@ -1,0 +1,1 @@
+This lecture was also easy but I tried doing it myself and got confused and I understood that these types of approaches need a base case and then conditions dividing the array into 2 parts based on the question.
