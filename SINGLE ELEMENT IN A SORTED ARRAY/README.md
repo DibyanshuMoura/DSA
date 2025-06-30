@@ -1,0 +1,1 @@
+This lecture was easy after understanding how to approach the question but IDK how to think that approach myself, everytime I need to take some help with the approach.
