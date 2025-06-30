@@ -1,1 +1,1 @@
-This lecture was easy and I got the brute force approach really well and I tried some other approaches as well and the optimised approach.
+This lecture was fairly easy and I got the brute force approach really well and I tried some other approaches as well and the optimised approach.
