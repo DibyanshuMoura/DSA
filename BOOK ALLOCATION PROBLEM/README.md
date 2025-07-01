@@ -1,0 +1,1 @@
+This lecture was a bit tough as the question's approach was quite unusual. I did understood it properly but I'll have to revise it again, and will have to understand the concept properly.
