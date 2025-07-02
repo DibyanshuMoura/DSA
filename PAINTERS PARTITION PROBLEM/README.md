@@ -1,0 +1,1 @@
+This solution was easy as it was just as same as the book allocation problem, just different style. Did it myself but made some silly errors.
