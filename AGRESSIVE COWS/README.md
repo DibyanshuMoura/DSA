@@ -1,0 +1,1 @@
+The lecture itself was easy but the main logic behind the problem was tough like to sort the stalls and the max, min value it changes according to the question and then the logic of checking valid or not, I understood it and will look at it again afterwards.
