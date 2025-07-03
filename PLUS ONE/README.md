@@ -1,0 +1,1 @@
+This was not a lecture just something I wanted to add as practise and I remember when I tried this first time I needed the help of gpt as I was first putting all the values in the interger then adding one and then putting it back to the orignal array after deleteting all the elements but it was too inefficient and so then I took help.
