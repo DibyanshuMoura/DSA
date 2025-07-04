@@ -1,0 +1,1 @@
+This lecture was easy apart from the insertion sort, so I'll have to look at it again.
