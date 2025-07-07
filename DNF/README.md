@@ -1,0 +1,1 @@
+This lecture was easy and for the 3 pointer DNF algorithm it was fine after you understand it.
