@@ -1,0 +1,1 @@
+This problem was easy, I thought of the brute force approach myself and did it but the optimal approach was pretty simple too if once you understand the logic behind it.

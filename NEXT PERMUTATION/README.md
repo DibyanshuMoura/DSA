@@ -1,0 +1,1 @@
+The problem is easy once you know the logic to find then next permutation, and I'll have to remember that part.
