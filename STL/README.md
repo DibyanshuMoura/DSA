@@ -1,0 +1,1 @@
+This lecture was long very long and learned a lot of different types of containers, iterators, functors, comparitors and algorithms. 
