@@ -1,0 +1,1 @@
+This lecture was easy as I am familiar with strings and I learned a lot about the ways to input the character array.
