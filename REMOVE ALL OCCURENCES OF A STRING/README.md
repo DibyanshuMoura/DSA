@@ -1,0 +1,1 @@
+This question was easy IDk why it was a medium level question, if you know about the functions the its easy.

@@ -1,0 +1,1 @@
+This question was okay, I did various silly mistakes that ik are very dumb and I'll remember them.
