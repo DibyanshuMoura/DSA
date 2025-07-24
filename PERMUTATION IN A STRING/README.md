@@ -1,0 +1,1 @@
+This solution I did it by myself but I took the help for the approach from the lecture and did it my self.
