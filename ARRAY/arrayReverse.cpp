@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 // TWO POINTER APPROACH
-int arrayReverse(int arr[], int size){
+void arrayReverse(int arr[], int size){
     int strt = 0, end = size - 1;
     while (strt < end){
         swap(arr[strt], arr[end]);
