@@ -7,7 +7,8 @@
     "code-runner.clearPreviousOutput": true,
     "code-runner.showExecutionMessage": false,
     "code-runner.executorMap": {
-        "c": "gcc -g \"$fullFileName\" -o \"$fileNameWithoutExt\" && chmod +x \"$fileNameWithoutExt\" && ./\"$fileNameWithoutExt\"",
-        "cpp": "g++ -g \"$fullFileName\" -o \"$fileNameWithoutExt\" && chmod +x \"$fileNameWithoutExt\" && ./\"$fileNameWithoutExt\""
+        "c": "gcc -g \"$fullFileName\" -o \"/tmp/$fileNameWithoutExt\" && /tmp/\"$fileNameWithoutExt\" && rm /tmp/\"$fileNameWithoutExt\"",
+        "cpp": "g++ -g \"$fullFileName\" -o \"/tmp/$fileNameWithoutExt\" && /tmp/\"$fileNameWithoutExt\" && rm /tmp/\"$fileNameWithoutExt\""
     }
 }
+
