@@ -2,5 +2,10 @@
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "code-runner.executorMap": {
+        "c": "gcc -g \"$fullFileName\" -o \"$fileNameWithoutExt\" && ./$fileNameWithoutExt",
+        "cpp": "g++ -g \"$fullFileName\" -o \"$fileNameWithoutExt\" && ./$fileNameWithoutExt"
+    },
+    "code-runner.runInTerminal": true
 }
